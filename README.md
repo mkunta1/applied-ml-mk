@@ -33,6 +33,3 @@ Each lab project will be completed in its own folder.
    - ml01.ipynb - COMPLETE THIS 
    - ml01.py - working script with just the code
    - README.md - instructions - modify this to present your lab project
-
-
-
